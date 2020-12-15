@@ -26,6 +26,7 @@
 
     &__text {
       text-align: left;
+      margin: 0 auto;
 
       @include respond(phone) {
         margin-bottom: 2.5rem !important;
